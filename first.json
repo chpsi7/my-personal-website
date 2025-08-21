@@ -1,0 +1,12 @@
+ {
+    "name": "chpsi",
+    "score": 7.7,
+    "isAdmin": false,
+    "license": null,
+    "cafeItems": ["Utensils", "Furnitures", "Lighting"],
+    "randomObj": {
+        "name": "siuuweyy",
+        "attempts": "2"
+    } 
+} 
+

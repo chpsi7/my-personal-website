@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Portfolio Website Folder",
+			"path": "."
+		},
+		{
+			"name": "PROJECTS tutorials",
+			"path": "../PROJECTS tutorials"
+		},
+		{
+			"name": "#js30",
+			"path": "../#js30"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio Website Folder",
+		"liveServer.settings.port": 5501
+	}
+}
